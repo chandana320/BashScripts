@@ -1,4 +1,5 @@
 #!/bin/sh
+# this script is used to find sum of given numbers
 echo "Enter a number"
 read num
 sum=0

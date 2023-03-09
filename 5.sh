@@ -1,4 +1,5 @@
 #!/bin/bash
+#this script is used to find min,max and average of given numbers
 echo "Enter space-separated integers:"
 read -a arr
 sum=0

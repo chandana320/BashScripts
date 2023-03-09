@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is used to check whether the given number is prime or not
 echo "Enter a number"
 read num
 is_prime=true

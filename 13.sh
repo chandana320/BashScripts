@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script is used for shecduling logs ,compress and zip
 log_dir="/var/log"
 log_server="example.com"
 log_username="username"

@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script is used for printing multiplication table accoding to the given number
 
 # Input from user
 echo "Enter the number -"

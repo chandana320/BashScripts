@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script is used to print fibanocci series
 echo "Enter a number"
 read num
 a=0

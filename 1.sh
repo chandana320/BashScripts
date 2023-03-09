@@ -1,4 +1,5 @@
 #!/bin/sh
+#this is used for finding a number is even or odd
 echo "enter a number: "
 read n
 
